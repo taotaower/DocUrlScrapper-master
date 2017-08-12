@@ -1,9 +1,0 @@
-11.2.  Definition.  For purposes of Section 12.1, a “Change in Control” of the Company will be deemed to have occurred if the conditions or events set forth in any one or more of the following subsections occur:
- 
-(a)  Any merger, consolidation or similar transaction which involves the Company and in which persons who are the shareholders of the Company immediately prior to the transaction own, immediately after the transaction, shares of the surviving or combined entity which possess voting rights equal to or less than 50 percent of the voting rights of all shareholders of such entity, determined on a fully diluted basis;
- 
-(b)  Any sale, lease, exchange, transfer or other disposition of all or any substantial part of the consolidated assets of the Company;
- 
-(c)  Any tender, exchange, sale or other disposition (other than disposition of the stock of the Company or Horizon Bank in connection with bankruptcy, insolvency, foreclosure, receivership or other similar transactions) or purchase (other than purchases by the Company or any Company sponsored employee benefit plan, or purchases by members of the Board of Directors of the Company or any subsidiary) of shares of stock which represent more than 25 percent of the voting power of the Company or Horizon Bank;
- 
-(d)  During any period of two consecutive years, individuals who at the date of the adoption of the Plan constitute the Board cease for any reason to constitute at least a majority
